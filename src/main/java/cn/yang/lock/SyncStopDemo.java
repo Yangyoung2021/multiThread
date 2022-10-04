@@ -1,4 +1,4 @@
-package cn.yang;
+package cn.yang.lock;
 
 import lombok.extern.slf4j.Slf4j;
 
